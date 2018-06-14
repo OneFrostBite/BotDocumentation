@@ -47,13 +47,8 @@ Have fun!
 
 Our community is developing and new features are constantly added. If you can’t find what you’re looking for, we are open to suggestions!
 
-
-<p align="center">
-<img src="https://discordapp.com/api/guilds/455274096608149527/widget.png?style=banner4">
-</p>
-
 <p align="center"><a href="https://discord.gg/spZAzUZ" target="_blank"><img src="https://discordapp.com/api/guilds/455274096608149527/widget.png?style=banner4" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a></p>
+alt="Flying Penguins Everywhere" border="10" /></a></p>
 
 
 # License
