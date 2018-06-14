@@ -48,7 +48,7 @@ Have fun!
 <p align="center">Our community is always developing and new features are constantly added.</p>
 <p align="center">If you can’t find what you’re looking for, we are open to suggestions!</p>
 
-
+<p></p>
 <p align="center"><a href="https://discord.gg/spZAzUZ" target="_blank"><img src="https://discordapp.com/api/guilds/455274096608149527/widget.png?style=banner4" 
 alt="Flying Penguins Everywhere" border="10" /></a></p>
 
