@@ -49,8 +49,11 @@ Our community is developing and new features are constantly added. If you can’
 
 
 <p align="center">
-[<img src="https://discordapp.com/api/guilds/455274096608149527/widget.png?style=banner4">]
+<img src="https://discordapp.com/api/guilds/455274096608149527/widget.png?style=banner4">
 </p>
+
+<a href="https://discord.gg/spZAzUZ" target="_blank"><img src="https://discordapp.com/api/guilds/455274096608149527/widget.png?style=banner4" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 # License
