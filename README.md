@@ -1,4 +1,4 @@
-![intro](http://i.imgur.com/RgGlNpQ.jpg)
+![intro](https://orig09.deviantart.net/f531/f/2013/021/5/a/miku_welcome_sign__free_to_use__by_pinkbunnii-d5s9380.gif)
 
 # Red - A fully customizable Discord bot
 #### *Music, admin, trivia, fun commands and much more!*
