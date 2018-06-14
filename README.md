@@ -1,7 +1,7 @@
 <p align="center"><a href="https://discord.gg/spZAzUZ" target="_blank"><img src="https://orig09.deviantart.net/f531/f/2013/021/5/a/miku_welcome_sign__free_to_use__by_pinkbunnii-d5s9380.gif" 
 alt="Flying Penguins Everywhere" border="10" /></a></p>
+<h1 style="font-family:verdana;"><p align="center">Join the Slav Den today!</p></h1>
 
-# Red - A fully customizable Discord bot
 #### *Music, admin, trivia, fun commands and much more!*
 [<img src="https://img.shields.io/badge/Support-Red!-orange.svg">](https://www.patreon.com/Red_Devs)  [<img src="https://img.shields.io/badge/discord-py-blue.svg">](https://github.com/Rapptz/discord.py) [<img src="https://discordapp.com/api/guilds/455274096608149527/widget.png?style=shield">](https://discord.gg/spZAzUZ)
 
