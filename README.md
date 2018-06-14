@@ -1,5 +1,3 @@
-![intro](https://orig09.deviantart.net/f531/f/2013/021/5/a/miku_welcome_sign__free_to_use__by_pinkbunnii-d5s9380.gif)
-
 <p align="center"><a href="https://discord.gg/spZAzUZ" target="_blank"><img src="https://orig09.deviantart.net/f531/f/2013/021/5/a/miku_welcome_sign__free_to_use__by_pinkbunnii-d5s9380.gif" 
 alt="Flying Penguins Everywhere" border="10" /></a></p>
 
