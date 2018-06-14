@@ -1,5 +1,5 @@
 ![intro](https://orig09.deviantart.net/f531/f/2013/021/5/a/miku_welcome_sign__free_to_use__by_pinkbunnii-d5s9380.gif)
-# WORK IN PROGRESS - THE SLAV DEN's DISCORD SERVER HELP FOR NEWBIES
+# WORK IN PROGRESS - THE SLAV DEN's DISCORD SERVER HELP PAGE FOR NEWBIES
 # Red - A fully customizable Discord bot
 #### *Music, admin, trivia, fun commands and much more!*
 [<img src="https://img.shields.io/badge/Support-Red!-orange.svg">](https://www.patreon.com/Red_Devs)  [<img src="https://img.shields.io/badge/discord-py-blue.svg">](https://github.com/Rapptz/discord.py) [<img src="https://discordapp.com/api/guilds/133049272517001216/widget.png?style=shield">](https://discord.gg/spZAzUZ) [![Build Status](https://api.travis-ci.org/Cog-Creators/Red-DiscordBot.svg?branch=develop)](https://travis-ci.org/Cog-Creators/Red-DiscordBot) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
@@ -43,11 +43,13 @@ If you have any other questions, feel free to explore the [Docs](https://twentys
 If [*after reading the guides*](https://twentysix26.github.io/Red-Docs/) you are still experiencing issues that are not listed on [this page](https://twentysix26.github.io/Red-Docs/red_guide_troubleshooting/) or in the [FAQs](https://twentysix26.github.io/Red-Docs/red_faq/), feel free to join the [official server](https://discord.gg/red) for help.  
 Have fun!
 
-# Join the community!
+# Join the Slav Den!
 
-Red is in continuous development, and it’s supported by an active community which produces new content (cogs/plugins) for everyone to enjoy. New features are constantly added. If you can’t [find](https://cogs.red/) what you’re looking for, we are open to suggestions! Stay tuned by [joining the official server](https://discord.gg/spZAzUZ)!
+Our community is always developing and new features are constantly added. If you can’t [find](https://cogs.red/) what you’re looking for, we are open to suggestions! [Join the Slav Den today!](https://discord.gg/spZAzUZ)!
 
 # License
+
+[Original Bot Release](https://github.com/Cog-Creators/Red-DiscordBot)
 
 Released under the [GNU GPL v3](LICENSE).
 
