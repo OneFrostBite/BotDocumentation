@@ -49,9 +49,9 @@ Our community is developing and new features are constantly added. If you can’
 
 
 
-[<img src="https://discordapp.com/api/guilds/455274096608149527/widget.png?style=banner4"](https://discord.gg/spZAzUZ) 
+[<img src="https://discordapp.com/api/guilds/455274096608149527/widget.png?style=banner4">](https://discord.gg/spZAzUZ) 
 
-<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" title="https://discord.gg/spZAzUZ">
+
 
 
 # License
