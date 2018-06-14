@@ -34,20 +34,6 @@ Additionally, other modules (cogs) can be easily found and added from our growin
 
 Feel free to take a [peek](https://cogs.red/)!
 
-# Installation
-
-The installation process is straightforward; all major platforms are supported: 
-* [Windows](https://twentysix26.github.io/Red-Docs/red_install_windows/)
-* [Linux](https://twentysix26.github.io/Red-Docs/red_install_linux/)
-* [macOS](https://twentysix26.github.io/Red-Docs/red_install_mac/)
-
-Read the [getting started](https://twentysix26.github.io/Red-Docs/red_getting_started/) guide to quickly learn how to use Red.  
-
-If you have any other questions, feel free to explore the [Docs](https://twentysix26.github.io/Red-Docs/) for guidance.
-
-If [*after reading the guides*](https://twentysix26.github.io/Red-Docs/) you are still experiencing issues that are not listed on [this page](https://twentysix26.github.io/Red-Docs/red_guide_troubleshooting/) or in the [FAQs](https://twentysix26.github.io/Red-Docs/red_faq/), feel free to join the [official server](https://discord.gg/red) for help.  
-Have fun!
-
 <h1 style="font-family:verdana;"><p align="center">Join the Slav Den today!</p></h1>
 
 <p align="center">Our community is always developing and new features are constantly added.</p>
