@@ -51,7 +51,7 @@ Our community is always developing and new features are constantly added. If you
 
 
 <div style="left: 50%;position:  relative;"><div style="max-width:100%;transform: translateX(-50%);">
- [<img src="https://discordapp.com/api/guilds/455274096608149527/widget.png?style=banner4">] </div>(https://discord.gg/spZAzUZ) </div>
+ [<img src="https://discordapp.com/api/guilds/455274096608149527/widget.png?style=banner4">] (https://discord.gg/spZAzUZ) </div></div>
 
 # License
 
