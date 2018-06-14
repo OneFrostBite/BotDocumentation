@@ -43,10 +43,9 @@ If you have any other questions, feel free to explore the [Docs](https://twentys
 If [*after reading the guides*](https://twentysix26.github.io/Red-Docs/) you are still experiencing issues that are not listed on [this page](https://twentysix26.github.io/Red-Docs/red_guide_troubleshooting/) or in the [FAQs](https://twentysix26.github.io/Red-Docs/red_faq/), feel free to join the [official server](https://discord.gg/red) for help.  
 Have fun!
 
-# Join the community!
+# Join the Slav Den today!
 
-<p align="center">Our community is always developing and new features are constantly added. If you can’t find what you’re looking for, we are open to suggestions! 
-Join the Slav Den today!</p>
+<p align="center">Our community is always developing and new features are constantly added. If you can’t find what you’re looking for, we are open to suggestions!</p>
 
 
 <p align="center"><a href="https://discord.gg/spZAzUZ" target="_blank"><img src="https://discordapp.com/api/guilds/455274096608149527/widget.png?style=banner4" 
