@@ -1,8 +1,8 @@
 ![intro](https://orig09.deviantart.net/f531/f/2013/021/5/a/miku_welcome_sign__free_to_use__by_pinkbunnii-d5s9380.gif)
-# WORK IN PROGRESS - THE SLAV DEN's DISCORD SERVER HELP PAGE FOR NEWBIES
+# WORK IN PROGRESS - THE SLAV DEN's DISCORD SERVER HELP FOR NEWBIES
 # Red - A fully customizable Discord bot
 #### *Music, admin, trivia, fun commands and much more!*
-[<img src="https://img.shields.io/badge/Support-Red!-orange.svg">](https://www.patreon.com/Red_Devs)  [<img src="https://img.shields.io/badge/discord-py-blue.svg">](https://github.com/Rapptz/discord.py) [<img src="https://discordapp.com/api/guilds/455274096608149527/widget.png?style=shield">](https://discord.gg/spZAzUZ) [![Build Status](https://api.travis-ci.org/Cog-Creators/Red-DiscordBot.svg?branch=develop)](https://travis-ci.org/Cog-Creators/Red-DiscordBot)
+[<img src="https://img.shields.io/badge/Support-Red!-orange.svg">](https://www.patreon.com/Red_Devs)  [<img src="https://img.shields.io/badge/discord-py-blue.svg">](https://github.com/Rapptz/discord.py) [<img src="https://discordapp.com/api/guilds/455274096608149527/widget.png?style=shield">](https://discord.gg/spZAzUZ) [![Build Status](https://api.travis-ci.org/Cog-Creators/Red-DiscordBot.svg?branch=develop)](https://travis-ci.org/Cog-Creators/Red-DiscordBot) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 **Red** is a fully modular bot – meaning all features and commands can be enabled/disabled to your liking, making it completely customizable.  
 This is also a *self-hosted bot* – meaning you will need to host and maintain your own instance. You can turn Red into an admin bot, music bot, trivia bot, new best friend or all of these together!  
@@ -43,19 +43,14 @@ If you have any other questions, feel free to explore the [Docs](https://twentys
 If [*after reading the guides*](https://twentysix26.github.io/Red-Docs/) you are still experiencing issues that are not listed on [this page](https://twentysix26.github.io/Red-Docs/red_guide_troubleshooting/) or in the [FAQs](https://twentysix26.github.io/Red-Docs/red_faq/), feel free to join the [official server](https://discord.gg/red) for help.  
 Have fun!
 
-# Join the Slav Den!
+# Join the community!
 
-Our community is always developing and new features are constantly added. If you can’t [find](https://cogs.red/) what you’re looking for, we are open to suggestions! [Join the Slav Den today!](https://discord.gg/spZAzUZ)!
-
-
-
+Our community is developing and new features are constantly added. If you can’t find what you’re looking for, we are open to suggestions!
+[<img src="https://discordapp.com/api/guilds/455274096608149527/widget.png?style=banner4">](https://discord.gg/spZAzUZ)
 
 
- [<img src="https://discordapp.com/api/guilds/455274096608149527/widget.png?style=banner4">] (https://discord.gg/spZAzUZ)
 
 # License
-
-[Original Bot Release](https://github.com/Cog-Creators/Red-DiscordBot)
 
 Released under the [GNU GPL v3](LICENSE).
 
