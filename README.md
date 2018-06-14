@@ -8,7 +8,7 @@ alt="Flying Penguins Everywhere" border="10" /></a></p>
 alt="Flying Penguins Everywhere" border="10" /></a><a href="https://github.com/Rapptz/discord.py" target="_blank"><img src="https://img.shields.io/badge/discord-py-blue.svg" 
 alt="Flying Penguins Everywhere" border="10" /></a><a href="https://discord.gg/spZAzUZ" target="_blank"><img src="https://discordapp.com/api/guilds/455274096608149527/widget.png?style=shield" 
 alt="Flying Penguins Everywhere" border="10" /></a></p>
-# 
+ 
 **Red** is a fully modular bot – meaning all features and commands can be enabled/disabled to your liking, making it completely customizable.  
 This is also a *self-hosted bot* – meaning you will need to host and maintain your own instance. You can turn Red into an admin bot, music bot, trivia bot, new best friend or all of these together!  
 [Installation is easy](https://twentysix26.github.io/Red-Docs/), and you do NOT need to know anything about coding! Aside from installation and updating, every part of the bot can be controlled from within Discord.
