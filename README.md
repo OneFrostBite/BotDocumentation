@@ -45,13 +45,15 @@ Have fun!
 
 # Join the community!
 
-Our community is developing and new features are constantly added. If you can’t find what you’re looking for, we are open to suggestions!
+Our community is always developing and new features are constantly added. If you can’t [find](https://cogs.red/) what you’re looking for, we are open to suggestions! [Join the Slav Den today!](https://discord.gg/spZAzUZ)!
 
 <p align="center"><a href="https://discord.gg/spZAzUZ" target="_blank"><img src="https://discordapp.com/api/guilds/455274096608149527/widget.png?style=banner4" 
 alt="Flying Penguins Everywhere" border="10" /></a></p>
 
 
 # License
+
+[Original Bot Release](https://github.com/Cog-Creators/Red-DiscordBot)
 
 Released under the [GNU GPL v3](LICENSE).
 
