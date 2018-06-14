@@ -66,10 +66,3 @@ Released under the [GNU GPL v3](LICENSE).
 
 *Red is named after the main character of "Transistor", a videogame by [Supergiant Games](https://www.supergiantgames.com/games/transistor/)*
 
-
-
-
-<p align="center"><a href="https://www.patreon.com/Red_Devs" target="_blank"><img src="https://img.shields.io/badge/Support-Red!-orange.svg" 
-alt="Flying Penguins Everywhere" border="10" /></a><a href="https://github.com/Rapptz/discord.py" target="_blank"><img src="https://img.shields.io/badge/discord-py-blue.svg" 
-alt="Flying Penguins Everywhere" border="10" /></a><a href="https://discord.gg/spZAzUZ" target="_blank"><img src="https://discordapp.com/api/guilds/455274096608149527/widget.png?style=shield" 
-alt="Flying Penguins Everywhere" border="10" /></a></p>
