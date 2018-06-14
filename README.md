@@ -51,7 +51,7 @@ Our community is always developing and new features are constantly added. If you
 
 
 
-<center>[<img src="https://discordapp.com/api/guilds/455274096608149527/widget.png?style=banner4">](https://discord.gg/spZAzUZ)</center> 
+[<center><img src="https://discordapp.com/api/guilds/455274096608149527/widget.png?style=banner4"></center>](https://discord.gg/spZAzUZ) 
 
 # License
 
