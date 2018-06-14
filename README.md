@@ -2,7 +2,7 @@
 alt="Flying Penguins Everywhere" border="10" /></a></p>
 <h1 style="font-family:verdana;"><p align="center">Red - A fully customizable Discord bot</p></h1>
 
-<p align="center"><b>#### *Music, admin, trivia, fun commands and much more!*</b></p>
+<p align="center"><b>Music, admin, trivia, fun commands and much more!</b></p>
 
 [<img src="https://img.shields.io/badge/Support-Red!-orange.svg">](https://www.patreon.com/Red_Devs)  [<img src="https://img.shields.io/badge/discord-py-blue.svg">](https://github.com/Rapptz/discord.py) [<img src="https://discordapp.com/api/guilds/455274096608149527/widget.png?style=shield">](https://discord.gg/spZAzUZ)
 
