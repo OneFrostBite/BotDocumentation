@@ -45,7 +45,8 @@ Have fun!
 
 # Join the Slav Den today!
 
-<p align="center">Our community is always developing and new features are constantly added. If you can’t find what you’re looking for, we are open to suggestions!</p>
+<p align="center">Our community is always developing and new features are constantly added.</p>
+<p align="center">If you can’t find what you’re looking for, we are open to suggestions!</p>
 
 
 <p align="center"><a href="https://discord.gg/spZAzUZ" target="_blank"><img src="https://discordapp.com/api/guilds/455274096608149527/widget.png?style=banner4" 
