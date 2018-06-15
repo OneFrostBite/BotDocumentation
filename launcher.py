@@ -25,9 +25,9 @@ REQS_TXT = "requirements.txt"
 REQS_NO_AUDIO_TXT = "requirements_no_audio.txt"
 FFMPEG_BUILDS_URL = "https://ffmpeg.zeranoe.com/builds/"
 
-INTRO = ("==========================\n"
-         "Red Discord Bot - Launcher\n"
-         "==========================\n")
+INTRO = ("===========================\n"
+         "Slav Discord Bot - Launcher\n"
+         "===========================\n")
 
 IS_WINDOWS = os.name == "nt"
 IS_MAC = sys.platform == "darwin"
@@ -43,15 +43,15 @@ FFMPEG_FILES = {
 
 
 def parse_cli_arguments():
-    parser = argparse.ArgumentParser(description="Red - Discord Bot's launcher")
+    parser = argparse.ArgumentParser(description="Boris - Discord Bot's launcher")
     parser.add_argument("--start", "-s",
-                        help="Starts Red",
+                        help="Starts Boris",
                         action="store_true")
     parser.add_argument("--auto-restart",
-                        help="Autorestarts Red in case of issues",
+                        help="Autorestarts Boris in case of issues",
                         action="store_true")
     parser.add_argument("--update-red",
-                        help="Updates Red (git)",
+                        help="Updates Boris (git)",
                         action="store_true")
     parser.add_argument("--update-reqs",
                         help="Updates requirements (w/ audio)",
@@ -125,9 +125,9 @@ def update_red():
               "the PATH environment variable like requested in the guide.")
         return
     if code == 0:
-        print("\nRed has been updated")
+        print("\nBoris has been updated")
     else:
-        print("\nRed could not update properly. If this is caused by edits "
+        print("\nBoris could not update properly. If this is caused by edits "
               "you have made to the code you can try the repair option from "
               "the Maintenance submenu")
 
@@ -519,9 +519,9 @@ def main():
                   "installed or not in the PATH environment variable like "
                   "requested in the guide.\n")
 
-        print("1. Run Red /w autorestart in case of issues")
-        print("2. Run Red")
-        print("3. Update")
+        print("1. Run Boris /w autorestart in case of issues")
+        print("2. Run Boris")
+        print("3. Update Boris")
         print("4. Install requirements")
         print("5. Maintenance (repair, reset...)")
         print("\n0. Quit")
@@ -548,13 +548,13 @@ if __name__ == '__main__':
     # Sets current directory to the script's
     os.chdir(dirname)
     if not PYTHON_OK:
-        print("Red needs Python 3.5 or superior. Install the required "
+        print("Borsi needs Python 3.5 or superior. Install the required "
               "version.\nPress enter to continue.")
         if INTERACTIVE_MODE:
             wait()
         exit(1)
     if pip is None:
-        print("Red cannot work without the pip module. Please make sure to "
+        print("Boris cannot work without the pip module. Please make sure to "
               "install Python without unchecking any option during the setup")
         wait()
         exit(1)
