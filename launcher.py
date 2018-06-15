@@ -165,7 +165,7 @@ def reset_red(reqs=False, data=False, cogs=False, git_reset=False):
     if git_reset:
         code = subprocess.call(("git", "reset", "--hard"))
         if code == 0:
-            print("Red has been restored to the last local commit.")
+            print("Boris has been restored to the last local commit.")
         else:
             print("The repair has failed.")
 
@@ -281,9 +281,9 @@ def update_menu():
             status = "Basic + audio requirements installed"
         print("Status: " + status + "\n")
         print("Update:\n")
-        print("Red:")
-        print("1. Update Red + requirements (recommended)")
-        print("2. Update Red")
+        print("Boris:")
+        print("1. Update Boris + requirements (recommended)")
+        print("2. Update Boris")
         print("3. Update requirements")
         print("\nOthers:")
         print("4. Update pip (might require admin privileges)")
@@ -321,7 +321,7 @@ def maintenance_menu():
     while True:
         print(INTRO)
         print("Maintenance:\n")
-        print("1. Repair Red (discards code changes, keeps data intact)")
+        print("1. Repair Boris (discards code changes, keeps data intact)")
         print("2. Wipe 'data' folder (all settings, cogs' data...)")
         print("3. Wipe 'lib' folder (all local requirements / local installed"
               " python packages)")
@@ -363,7 +363,7 @@ def run_red(autorestart):
         raise RuntimeError("Couldn't find Python's interpreter")
 
     if verify_requirements() is None:
-        print("You don't have the requirements to start Red. "
+        print("You don't have the requirements to start Boris. "
               "Install them from the launcher.")
         if not INTERACTIVE_MODE:
             exit(1)
@@ -386,7 +386,7 @@ def run_red(autorestart):
                 if not autorestart:
                     break
 
-    print("Red has been terminated. Exit code: %d" % code)
+    print("Boris has been terminated. Exit code: %d" % code)
 
     if INTERACTIVE_MODE:
         wait()
@@ -507,7 +507,7 @@ def main():
         print(INTRO)
 
         if not is_git_installation:
-            print("WARNING: It doesn't look like Red has been "
+            print("WARNING: It doesn't look like Boris has been "
                   "installed with git.\nThis means that you won't "
                   "be able to update and some features won't be working.\n"
                   "A reinstallation is recommended. Follow the guide "
@@ -548,7 +548,7 @@ if __name__ == '__main__':
     # Sets current directory to the script's
     os.chdir(dirname)
     if not PYTHON_OK:
-        print("Borsi needs Python 3.5 or superior. Install the required "
+        print("Boris needs Python 3.5 or superior. Install the required "
               "version.\nPress enter to continue.")
         if INTERACTIVE_MODE:
             wait()
