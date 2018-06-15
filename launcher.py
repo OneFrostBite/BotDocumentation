@@ -380,7 +380,7 @@ def run_red(autorestart):
             if code == 0:
                 break
             elif code == 26:
-                print("Restarting Red...")
+                print("Restarting Boris...")
                 continue
             else:
                 if not autorestart:
