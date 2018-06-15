@@ -569,5 +569,5 @@ if __name__ == '__main__':
     if INTERACTIVE_MODE:
         main()
     elif args.start:
-        print("Starting Red...")
+        print("Starting Boris...")
         run_red(autorestart=args.auto_restart)
