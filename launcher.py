@@ -495,7 +495,7 @@ def main():
     has_git = is_git_installed()
     is_git_installation = os.path.isdir(".git")
     if IS_WINDOWS:
-        os.system("TITLE Red Discord Bot - Launcher")
+        os.system("TITLE Boris Discord Bot - Launcher")
     clear_screen()
 
     try:
